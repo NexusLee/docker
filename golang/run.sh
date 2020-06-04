@@ -1,0 +1,1 @@
+docker run --privileged -v /e/paddington/docker/go-stress-testing:/go/go-stress-testing -it --rm go-stress-testing /bin/sh
